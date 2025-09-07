@@ -1,7 +1,10 @@
 ## 🔥
 <p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggiuu557)](https://solved.ac/ggiuu557/)
+  <a href="https://solved.ac/ggiuu557/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggiuu557" />
+  </a>
 </p>
+
 
 <p align="center">
   
