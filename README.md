@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFF"/>
+  <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=FFF"/>
 </p>
 
 ## 💬
 <p align="center">  
   <a href="url"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=FFF&link=https://velog.io/@lyj5721/posts"/></a>
-  <a href="url"><img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=FFF&link=[https://velog.io/@lyj5721/posts](https://github.com/)"/></a>
 </p>
 
 
