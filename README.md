@@ -1,9 +1,9 @@
 ## 🔥
-<!-- <p align="center">
+<p align="center">
   <a href="https://solved.ac/ggiuu557/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ggiuu557" />
   </a>
-</p> -->
+</p>
 
 
 <p align="center">
